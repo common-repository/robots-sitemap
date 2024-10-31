@@ -1,0 +1,273 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Vo3da Robots Sitemap\n"
+"POT-Creation-Date: 2020-12-10 13:38+0200\n"
+"PO-Revision-Date: 2020-07-13 11:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: tests\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+"X-Poedit-SearchPathExcluded-3: .git\n"
+
+#: admin/class-admin.php:102
+msgid "Always"
+msgstr ""
+
+#: admin/class-admin.php:103
+msgid "Hourly"
+msgstr ""
+
+#: admin/class-admin.php:104
+msgid "Daily"
+msgstr ""
+
+#: admin/class-admin.php:105
+msgid "Weekly"
+msgstr ""
+
+#: admin/class-admin.php:106
+msgid "Monthly"
+msgstr ""
+
+#: admin/class-admin.php:107
+msgid "Yearly"
+msgstr ""
+
+#: admin/class-admin.php:108
+msgid "Never"
+msgstr ""
+
+#: admin/class-admin.php:272
+msgid "Home page"
+msgstr ""
+
+#: admin/class-admin.php:336
+msgid "Sitemap settings"
+msgstr ""
+
+#: admin/class-admin.php:593
+msgid "Your sitemap has been updated!"
+msgstr ""
+
+#: admin/class-admin.php:594 admin/class-admin.php:618
+#: admin/class-admin.php:663 admin/class-admin.php:693
+#: admin/views/components/sitemap.php:207
+msgid "Success"
+msgstr ""
+
+#: admin/class-admin.php:601 admin/class-admin.php:624
+#: admin/class-admin.php:668 admin/class-admin.php:712
+msgid "Error, try reload page!"
+msgstr ""
+
+#: admin/class-admin.php:602 admin/class-admin.php:625
+#: admin/class-admin.php:669 admin/class-admin.php:699
+#: admin/class-admin.php:706 admin/class-admin.php:713
+#: admin/views/components/sitemap.php:207
+msgid "Error"
+msgstr ""
+
+#: admin/class-admin.php:617
+msgid "Your sitemap cache has been cleared!"
+msgstr ""
+
+#: admin/class-admin.php:662 admin/class-admin.php:692
+msgid "Your robots.txt file has been updated!"
+msgstr ""
+
+#: admin/class-admin.php:698
+msgid "Error, You did not specify what you want to replace!"
+msgstr ""
+
+#: admin/class-admin.php:705
+msgid "Error, you don't check domain!"
+msgstr ""
+
+#: admin/views/components/metabox.php:3 admin/views/components/sitemap.php:18
+#: admin/views/components/term-metabox.php:6
+msgid "Priority"
+msgstr ""
+
+#: admin/views/components/metabox.php:5 admin/views/components/metabox.php:16
+#: admin/views/components/term-metabox.php:10
+#: admin/views/components/term-metabox.php:24
+msgid "Default"
+msgstr ""
+
+#: admin/views/components/metabox.php:14 admin/views/components/sitemap.php:19
+#: admin/views/components/term-metabox.php:20
+msgid "Scan period"
+msgstr ""
+
+#: admin/views/components/metabox.php:27
+#: admin/views/components/term-metabox.php:38
+msgid "Exclude from sitemap"
+msgstr ""
+
+#: admin/views/components/robots.php:2
+msgid "Link to your Robots file"
+msgstr ""
+
+#: admin/views/components/robots.php:6
+msgid "Select domains to edit robots.txt"
+msgstr ""
+
+#: admin/views/components/robots.php:9 admin/views/components/robots.php:54
+msgid "Select all domains"
+msgstr ""
+
+#: admin/views/components/robots.php:18
+msgid "Domain is not selected or empty robots.txt file"
+msgstr ""
+
+#: admin/views/components/robots.php:28
+msgid "Disable robots"
+msgstr ""
+
+#: admin/views/components/robots.php:39
+msgid "Hide robots.txt from fake bots"
+msgstr ""
+
+#: admin/views/components/robots.php:47
+msgid "Save changes"
+msgstr ""
+
+#: admin/views/components/robots.php:51
+msgid "Select mirrors to bulk replace part of the text in robots.txt"
+msgstr ""
+
+#: admin/views/components/robots.php:66
+msgid "Search for"
+msgstr ""
+
+#: admin/views/components/robots.php:73
+msgid "Replace with"
+msgstr ""
+
+#: admin/views/components/robots.php:79
+msgid "Replace"
+msgstr ""
+
+#: admin/views/components/sitemap.php:8
+msgid "Link to your sitemap "
+msgstr ""
+
+#: admin/views/components/sitemap.php:17
+msgid "Type of page"
+msgstr ""
+
+#: admin/views/components/sitemap.php:20
+msgid "Show in sitemap"
+msgstr ""
+
+#: admin/views/components/sitemap.php:66
+msgid "Date format"
+msgstr ""
+
+#: admin/views/components/sitemap.php:69
+msgid "Short"
+msgstr ""
+
+#: admin/views/components/sitemap.php:71
+msgid "Long"
+msgstr ""
+
+#: admin/views/components/sitemap.php:85
+msgid "Disable sitemap"
+msgstr ""
+
+#: admin/views/components/sitemap.php:96
+msgid "Display links to images"
+msgstr ""
+
+#: admin/views/components/sitemap.php:107
+msgid "Split sitemap by type"
+msgstr ""
+
+#: admin/views/components/sitemap.php:118
+msgid "Display an image map (sitemap-images.xml)"
+msgstr ""
+
+#: admin/views/components/sitemap.php:129
+msgid "Hide sitemap from fake bots"
+msgstr ""
+
+#: admin/views/components/sitemap.php:140
+msgid "Display google news sitemap (sitemap-news.xml)"
+msgstr ""
+
+#: admin/views/components/sitemap.php:149
+msgid "News publication name"
+msgstr ""
+
+#: admin/views/components/sitemap.php:157
+msgid "Language of the news publication"
+msgstr ""
+
+#: admin/views/components/sitemap.php:166
+msgid "Category for displaying posts in Google News sitemap"
+msgstr ""
+
+#: admin/views/components/sitemap.php:182
+msgid "Clear cache"
+msgstr ""
+
+#: admin/views/components/sitemap.php:184
+msgid "Save"
+msgstr ""
+
+#: admin/views/components/sitemap.php:191
+msgid "Search Engines notification results"
+msgstr ""
+
+#: admin/views/components/sitemap.php:193
+msgid "Search by title"
+msgstr ""
+
+#: admin/views/components/sitemap.php:198
+msgid "Date"
+msgstr ""
+
+#: admin/views/components/sitemap.php:199
+msgid "Type"
+msgstr ""
+
+#: admin/views/components/sitemap.php:200
+msgid "Page"
+msgstr ""
+
+#: admin/views/components/sitemap.php:201
+msgid "Status"
+msgstr ""
+
+#: admin/views/components/sitemap.php:202
+msgid "Search Engine"
+msgstr ""
+
+#: admin/views/components/sitemap.php:208
+msgid "Post"
+msgstr ""
+
+#: admin/views/components/sitemap.php:208
+msgid "Term"
+msgstr ""
+
+#: admin/views/page-options.php:4
+msgid "Sitemap"
+msgstr ""
+
+#: admin/views/page-options.php:5
+msgid "Robots"
+msgstr ""

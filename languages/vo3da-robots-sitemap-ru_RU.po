@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vo3da Robots Sitemap\n"
+"POT-Creation-Date: 2020-12-10 13:39+0200\n"
+"PO-Revision-Date: 2020-12-10 13:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+"X-Poedit-SearchPathExcluded-3: tests\n"
+
+#: admin/class-admin.php:102
+msgid "Always"
+msgstr "Всегда"
+
+#: admin/class-admin.php:103
+msgid "Hourly"
+msgstr "Каждый час"
+
+#: admin/class-admin.php:104
+msgid "Daily"
+msgstr "Каждый день"
+
+#: admin/class-admin.php:105
+msgid "Weekly"
+msgstr "Каждую неделю"
+
+#: admin/class-admin.php:106
+msgid "Monthly"
+msgstr "Каждый месяц"
+
+#: admin/class-admin.php:107
+msgid "Yearly"
+msgstr "Каждый год"
+
+#: admin/class-admin.php:108
+msgid "Never"
+msgstr "Никогда"
+
+#: admin/class-admin.php:272
+msgid "Home page"
+msgstr "Главная страница"
+
+#: admin/class-admin.php:336
+msgid "Sitemap settings"
+msgstr "Настройки sitemap"
+
+#: admin/class-admin.php:593
+msgid "Your sitemap has been updated!"
+msgstr "Ваш sitemap обновлен!"
+
+#: admin/class-admin.php:594 admin/class-admin.php:618
+#: admin/class-admin.php:663 admin/class-admin.php:693
+#: admin/views/components/sitemap.php:207
+msgid "Success"
+msgstr "Успех"
+
+#: admin/class-admin.php:601 admin/class-admin.php:624
+#: admin/class-admin.php:668 admin/class-admin.php:712
+msgid "Error, try reload page!"
+msgstr "Ошибка, попробуйте перезагрузить страницу!"
+
+#: admin/class-admin.php:602 admin/class-admin.php:625
+#: admin/class-admin.php:669 admin/class-admin.php:699
+#: admin/class-admin.php:706 admin/class-admin.php:713
+#: admin/views/components/sitemap.php:207
+msgid "Error"
+msgstr "Ошибка"
+
+#: admin/class-admin.php:617
+msgid "Your sitemap cache has been cleared!"
+msgstr "Кеш сайтмапа был успешно очищен!"
+
+#: admin/class-admin.php:662 admin/class-admin.php:692
+msgid "Your robots.txt file has been updated!"
+msgstr "Ваш robots.txt файл успешно обновлен!"
+
+#: admin/class-admin.php:698
+msgid "Error, You did not specify what you want to replace!"
+msgstr "Ошибка, вы не указали что хотите заменить!"
+
+#: admin/class-admin.php:705
+msgid "Error, you don't check domain!"
+msgstr "Ошибка, вы не выбрали не одного домена!"
+
+#: admin/views/components/metabox.php:3 admin/views/components/sitemap.php:18
+#: admin/views/components/term-metabox.php:6
+msgid "Priority"
+msgstr "Приоритет"
+
+#: admin/views/components/metabox.php:5 admin/views/components/metabox.php:16
+#: admin/views/components/term-metabox.php:10
+#: admin/views/components/term-metabox.php:24
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/views/components/metabox.php:14 admin/views/components/sitemap.php:19
+#: admin/views/components/term-metabox.php:20
+msgid "Scan period"
+msgstr "Период сканирования"
+
+#: admin/views/components/metabox.php:27
+#: admin/views/components/term-metabox.php:38
+msgid "Exclude from sitemap"
+msgstr "Исключить из sitemap"
+
+#: admin/views/components/robots.php:2
+msgid "Link to your Robots file"
+msgstr "Ссылка на ваш robots.txt файл"
+
+#: admin/views/components/robots.php:6
+msgid "Select domains to edit robots.txt"
+msgstr "Выберите домен для редактирования robots.txt"
+
+#: admin/views/components/robots.php:9 admin/views/components/robots.php:54
+msgid "Select all domains"
+msgstr "Выбрать все домены"
+
+#: admin/views/components/robots.php:18
+msgid "Domain is not selected or empty robots.txt file"
+msgstr "Домен не выбран либо пустой robots.txt файл"
+
+#: admin/views/components/robots.php:28
+msgid "Disable robots"
+msgstr "Отключить robots"
+
+#: admin/views/components/robots.php:39
+msgid "Hide robots.txt from fake bots"
+msgstr "Скрыть robots.txt от фейковых ботов"
+
+#: admin/views/components/robots.php:47
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: admin/views/components/robots.php:51
+msgid "Select mirrors to bulk replace part of the text in robots.txt"
+msgstr "Выберите зеркала для массовой замены текста в robots.txt"
+
+#: admin/views/components/robots.php:66
+msgid "Search for"
+msgstr "Что заменить"
+
+#: admin/views/components/robots.php:73
+msgid "Replace with"
+msgstr "На что заменить"
+
+#: admin/views/components/robots.php:79
+msgid "Replace"
+msgstr "Заменить"
+
+#: admin/views/components/sitemap.php:8
+msgid "Link to your sitemap "
+msgstr "Ссылка на ваш sitemap "
+
+#: admin/views/components/sitemap.php:17
+msgid "Type of page"
+msgstr "Тип страницы"
+
+#: admin/views/components/sitemap.php:20
+msgid "Show in sitemap"
+msgstr "Выводить в sitemap"
+
+#: admin/views/components/sitemap.php:66
+msgid "Date format"
+msgstr "Формат даты"
+
+#: admin/views/components/sitemap.php:69
+msgid "Short"
+msgstr "Короткий"
+
+#: admin/views/components/sitemap.php:71
+msgid "Long"
+msgstr "Длинный"
+
+#: admin/views/components/sitemap.php:85
+msgid "Disable sitemap"
+msgstr "Отключить sitemap"
+
+#: admin/views/components/sitemap.php:96
+msgid "Display links to images"
+msgstr "Выводить в sitemap ссылки на изображения"
+
+#: admin/views/components/sitemap.php:107
+msgid "Split sitemap by type"
+msgstr "Разделить sitemap по типу"
+
+#: admin/views/components/sitemap.php:118
+msgid "Display an image map (sitemap-images.xml)"
+msgstr "Выводить sitemap для изображений (sitemap-images.xml)"
+
+#: admin/views/components/sitemap.php:129
+msgid "Hide sitemap from fake bots"
+msgstr "Скрыть sitemap от фейковых ботов"
+
+#: admin/views/components/sitemap.php:140
+msgid "Display google news sitemap (sitemap-news.xml)"
+msgstr "Выводить google news sitemap (sitemap-news.xml)"
+
+#: admin/views/components/sitemap.php:149
+msgid "News publication name"
+msgstr "Название новостных публикаций"
+
+#: admin/views/components/sitemap.php:157
+msgid "Language of the news publication"
+msgstr "Язык новостных публикаций"
+
+#: admin/views/components/sitemap.php:166
+msgid "Category for displaying posts in Google News sitemap"
+msgstr "Категория постов Google News"
+
+#: admin/views/components/sitemap.php:182
+msgid "Clear cache"
+msgstr "Очистить кеш"
+
+#: admin/views/components/sitemap.php:184
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/views/components/sitemap.php:191
+msgid "Search Engines notification results"
+msgstr "Журнал уведомлений поисковых систем"
+
+#: admin/views/components/sitemap.php:193
+msgid "Search by title"
+msgstr "Поиск по заголовку"
+
+#: admin/views/components/sitemap.php:198
+msgid "Date"
+msgstr "Дата"
+
+#: admin/views/components/sitemap.php:199
+msgid "Type"
+msgstr "Тип"
+
+#: admin/views/components/sitemap.php:200
+msgid "Page"
+msgstr "Страница"
+
+#: admin/views/components/sitemap.php:201
+msgid "Status"
+msgstr "Статус"
+
+#: admin/views/components/sitemap.php:202
+msgid "Search Engine"
+msgstr "Поисковая Система"
+
+#: admin/views/components/sitemap.php:208
+msgid "Post"
+msgstr "Пост"
+
+#: admin/views/components/sitemap.php:208
+msgid "Term"
+msgstr "Таксономия"
+
+#: admin/views/page-options.php:4
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: admin/views/page-options.php:5
+msgid "Robots"
+msgstr "Robots"
